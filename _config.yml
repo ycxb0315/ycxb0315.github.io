@@ -1,5 +1,5 @@
 # Site settings
-title: BY Blog
+title: 春风十里
 SEOTitle: 春哥的个人博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: 1317457348@qq.com
@@ -12,7 +12,7 @@ github_repo: "git@github.com:ycxb0315/ycxb0315.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/school.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -101,9 +101,6 @@ friends: [
     {
         title: "WY",
         href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
     },{
         title: "Apple",
         href: "https://apple.com"
